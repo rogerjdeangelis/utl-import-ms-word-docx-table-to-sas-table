@@ -2,8 +2,14 @@ Import ms word docx table to sas table
 
 Python is the best language for this?
 
+github
+https://tinyurl.com/wkaubvg
+https://github.com/rogerjdeangelis/utl-import-ms-word-docx-table-to-sas-table
+
 Not tested in WPS. No time to hook up my autocall library without the WPS CLI.
 
+SAS Forum
+https://tinyurl.com/v5c7e98
 https://communities.sas.com/t5/SAS-Programming/To-read-width-of-colums-of-a-table/m-p/613869
 
 pyreadstat is experimental?
